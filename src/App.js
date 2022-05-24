@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './seyful.jpeg';
 import './App.css';
 
 function App() {
